@@ -19,6 +19,7 @@ public class Ejemplo10 {
         int edad = 21;
         
       
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+edad);
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+
+                edad);
     }
 }
