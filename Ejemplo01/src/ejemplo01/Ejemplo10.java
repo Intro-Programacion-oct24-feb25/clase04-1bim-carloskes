@@ -16,16 +16,9 @@ public class Ejemplo10 {
         // Secuencia de escape \n y \t
         String nombreEstudiante = "Carlos Sebastián";
         String apellidoEstudiante = "Correa Abendaño";
-        int nacimiento = 2003;
+        int edad = 21;
         
-        /*System.out.println(nombreEstudiante+"\n"+apellidoEstudiante+ "\n"+ 
-                nacimiento);
-        
-        System.out.println(nombreEstudiante+"\n\n"+apellidoEstudiante+ "\n\n"+ 
-                nacimiento);
-        
-        System.out.println(nombreEstudiante+"\n"+"\n"+apellidoEstudiante+ "\n"+
-                "\n"+ nacimiento); */   
-        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+nacimiento);
+      
+        System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante+"\n\t\t"+edad);
     }
 }
