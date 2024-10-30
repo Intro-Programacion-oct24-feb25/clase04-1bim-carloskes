@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        // No se declara de nuevo la variable, sino el valor cuando es una cadena.
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
